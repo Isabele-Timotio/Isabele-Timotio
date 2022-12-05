@@ -1,6 +1,6 @@
 - 👋 Oii, me chamo Isabele, estou cursando
-Jogos Digitais  🎮, meu foco na área está sendo
-a parte de Desing  🎨, e ajudando na documentação
+Jogos Digitais  🎮, meu foco está sendo a 
+parte de Desing  🎨, e ajudando na documentação
 ✍️  em geral (história, diagramas...). 
 
 <!---
